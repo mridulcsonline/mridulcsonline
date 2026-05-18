@@ -1,5 +1,5 @@
 # Hi, I'm Mridul Samadder 👋
-### 🚀 Full Stack Software Engineer | Laravel Expert | .NET Developer
+### 🚀 Full Stack Software Engineer | Laravel Expert | Wordpress
 
 Experienced Full Stack Developer with over **6 years of professional experience** in building scalable web & software applications, optimizing databases, integrating enterprise APIs, and delivering high-performance digital solutions. Specializing in **Laravel/Wordpress/PHP** ecosystems alongside  **.NET** architectures.
 
