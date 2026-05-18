@@ -1,7 +1,7 @@
 # Hi, I'm Mridul Samadder 👋
 ### 🚀 Full Stack Software Engineer | Laravel Expert | .NET Developer
 
-Experienced Full Stack Developer with over **8 years of professional experience** in building scalable web & software applications, optimizing databases, integrating enterprise APIs, and delivering high-performance digital solutions. Specializing in **Laravel/PHP** ecosystems alongside robust **.NET/C#** enterprise architectures.
+Experienced Full Stack Developer with over **6 years of professional experience** in building scalable web & software applications, optimizing databases, integrating enterprise APIs, and delivering high-performance digital solutions. Specializing in **Laravel/Wordpress/PHP** ecosystems alongside  **.NET** architectures.
 
 ---
 
@@ -18,7 +18,7 @@ Experienced Full Stack Developer with over **8 years of professional experience*
     <td valign="top">
       <ul>
         <li>Laravel / PHP</li>
-        <li>ASP.NET Core MVC</li>
+        <li>Wordpress</li>
         <li>RESTful API Architecture</li>
         <li>Windows Services</li>
         <li>Laravel Queues & Cron</li>
@@ -100,7 +100,7 @@ Experienced Full Stack Developer with over **8 years of professional experience*
 ## 🎓 Education & Certifications
 
 - **B.Sc. (Honors) in Computer Science** — National University (First Class, 4-Year Duration)
-- **Object-Oriented Programming (OOP) on ASP.NET & C#** — BASIS (Bangladesh Association of Software and Information Services)
+- **Object-Oriented Programming (OOP) ** — BASIS (Bangladesh Association of Software and Information Services)
 - **Cisco Certified Network Associate (CCNA)**
 - **IELTS Academic** — Score: 6.5
 
@@ -110,6 +110,6 @@ Experienced Full Stack Developer with over **8 years of professional experience*
 
 <p align="left">
   <a href="mailto:mridulcs2012@gmail.com"><img src="https://img.shields.io/badge/Email-mridulcs2012%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"/></a>
-  <a href="https://github.com/mridulcs2012"><img src="https://img.shields.io/badge/GitHub-mridulcs2012-lightgrey?style=flat-square&logo=github" alt="GitHub"/></a>
-  <a href="https://mridulcs2012.github.io"><img src="https://img.shields.io/badge/Portfolio-Website-green?style=flat-square" alt="Portfolio"/></a>
+  <a href="https://github.com/mridulcsonline"><img src="https://img.shields.io/badge/GitHub-mridulcs2012-lightgrey?style=flat-square&logo=github" alt="GitHub"/></a>
+  <a href="https://mridulcsonline.github.io"><img src="https://img.shields.io/badge/Portfolio-Website-green?style=flat-square" alt="Portfolio"/></a>
 </p>
